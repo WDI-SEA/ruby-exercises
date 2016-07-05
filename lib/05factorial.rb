@@ -9,3 +9,10 @@
 #
 # > 120
 #
+
+def factorial(num)
+  array = (1..num).to_a.reverse
+  array.reduce(:*)
+end
+
+puts factorial(52)
