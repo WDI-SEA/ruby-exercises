@@ -1,4 +1,5 @@
 #Ruby Exercises
+Jeremy Wallace
 
 Let's practice using loops, conditionals, arrays, hashes, and methods in Ruby.
 
