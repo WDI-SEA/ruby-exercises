@@ -9,3 +9,13 @@
 # > Hello there
 # > Hello there
 # > Hello there
+
+def p_times(statement, num)
+  i = 0
+  while i < num do
+    puts statement
+    i += 1
+  end
+end
+
+p_times('Hello world!', 10)
